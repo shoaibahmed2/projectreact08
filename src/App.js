@@ -1,12 +1,12 @@
 import React from 'react'
 
 import './App.css';
-import dinner from './Dinner.js';
+import Lunch from './Dinner.js';
 
 function App() {
   return (
   <div className = "App">
-       <dinner />
+       <Lunch />
         </div>
   );
 }

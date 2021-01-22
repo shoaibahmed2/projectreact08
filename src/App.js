@@ -5,7 +5,6 @@ import dinner from './Dinner.js';
 function App() {
   return (
   <div className = "App">
-    <dinner> </dinner>
   </div>
   );
 }

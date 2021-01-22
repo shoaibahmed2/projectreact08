@@ -1,13 +1,14 @@
 import React from 'react'
 
 import './App.css';
+import dinner from './Dinner'
 
 function App() {
-  return (
+  return 
  
-     <h1> Hello world </h1>
-   
-  );
+     <div> className = "App"
+       <dinner />
+        </div>
 }
 
 export default App;
